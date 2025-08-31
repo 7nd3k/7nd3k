@@ -1,5 +1,6 @@
 ### ┌──(root㉿s7ven)-[~/7nd3k]
-**└─$ whoami**  
+**└─$ whoami**   
+
 `s7ven`
 
 ---
