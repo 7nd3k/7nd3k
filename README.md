@@ -9,7 +9,7 @@
 **└─$ cat about_me.txt**
 
 > **Name:** s7ven.  
-> **Role:** Student | Red Teamer, Scripter & OSiNT analyst.  
+> **Role:** Student | Pentester, Scripter & OSiNT analyst.  
 > **Interests:** Pentesting, Astronomy & Philosophy.
 
 ---
@@ -27,5 +27,5 @@
 ---
 
 <p>
-  <img src='https://www.pikpng.com/pngl/b/455-4551326_ei-eternity-forever-in-kanji-japanese-clipart.png' width='300'>
+  <img src='https://www.pikpng.com/pngl/b/455-4551326_ei-eternity-forever-in-kanji-japanese-clipart.png' width='215'>
 </p>
